@@ -1,0 +1,70 @@
+.search-nav::placeholder {
+  color: #343a40;
+}
+
+.search-nav {
+  height: 30px;
+  background: #8d8d8d;
+  color: #fff;
+}
+
+.category-pc {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+.category-pc .sub {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 5px;
+}
+
+.category-pc .selected a {
+  background: #343a40;
+  color: white;
+  font-weight: normal;
+}
+
+.category-pc a {
+  display: inline-block;
+  min-width: 100%;
+  padding: 5px 0 7px 5px;
+  font-size: 0.8rem;
+  color: #343a40;
+  white-space: nowrap;
+  font-weight: lighter;
+  border-radius: 15px 0 0 15px;
+}
+
+.category-pc a:hover {
+  text-decoration: none;
+  background: #cccccc;
+}
+
+.category-pc .selected a:hover {
+  text-decoration: none;
+  background: #2a2e33;
+}
+
+.category-pc .onecak {
+  transform: translateY(5%);
+}
+
+.blank-btn {
+  width: 100%;
+  background: #919191;
+  display: inline-block;
+  white-space: nowrap;
+  color: white;
+  font-size: 0.7rem;
+  border-radius: 15px;
+  text-align: center;
+  padding: 3px 0;
+}
+
+.blank-btn:hover {
+  text-decoration: none;
+  color: white;
+  background: #797979;
+}
