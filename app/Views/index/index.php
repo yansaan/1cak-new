@@ -13,8 +13,8 @@
   }
   </style>
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="<?= base_url() ?>/assets/node_modules/bootstrap/dist/css/bootstrap.min.css">
-  <link rel="stylesheet" href="<?= base_url() ?>/assets/node_modules/@fortawesome/fontawesome-free/css/all.css">
+  <link rel="stylesheet" href="<?= base_url() ?>/assets/bootstrap-4/css/bootstrap.min.css">
+  <link rel="stylesheet" href="<?= base_url() ?>/assets/fontawesome-4/css/all.css">
   <link rel="stylesheet" href="<?= base_url() ?>/assets/1cak/1cak-icon/styles.css">
   <link rel="stylesheet" href="<?= base_url() ?>/assets/css/style.css">
 </head>
@@ -86,8 +86,8 @@
   </div>
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src="<?= base_url() ?>/assets/node_modules/jquery/dist/jquery.slim.min.js"></script>
-  <script src="<?= base_url() ?>/assets/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="<?= base_url() ?>/assets/js/jquery.min.js"></script>
+  <script src="<?= base_url() ?>/assets/bootstrap-4/js/bootstrap.bundle.min.js"></script>
   <script src="<?= base_url() ?>/assets/js/script.js"></script>
 </body>
 
